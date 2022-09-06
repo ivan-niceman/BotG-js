@@ -1,0 +1,1 @@
+# BotG-js for google
